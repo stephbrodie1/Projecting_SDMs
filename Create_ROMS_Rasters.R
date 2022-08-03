@@ -1,5 +1,5 @@
 #Convert ROMS GCM netcdf files into rasters
-#Files provided by Mike Jacox. Use beyond the WRAP workshop requires permission by Mike Jacox (michael.jacox@noaa.gov)
+#Files stored on Dryad: https://doi.org/10.7291/D1JQ2K
 #Note: 1980-2010 are not observed values. 1980-present should not be compared to observations since the interannual variability will not match up (by design). 
 
 #8 covariates: sst, bottom temp, ild, chl-a surface, chl-a 50m, bottom oxygen, depth of 2.0 oxytherm, bottom depth layer (reference point)
